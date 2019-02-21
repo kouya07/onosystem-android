@@ -1,6 +1,8 @@
 #### Ono Systems
 # Ono System Delivery Support System
 
+![ポスター](https://github.com/kouya07/onosystem-doc/blob/master/poster/G14_ONO-Systems.png)
+
 
 ## リポジトリの使い方
 プロジェクトの関連資料はそれぞれのリポジトリで管理してください。
